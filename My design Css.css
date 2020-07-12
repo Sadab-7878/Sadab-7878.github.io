@@ -1,0 +1,23 @@
+.bg{
+    width: 540px;
+    position: relative;
+    background: #1E191A;
+}
+.container{
+    width: 33%;
+    margin: 20px auto;
+    padding: 40px 0;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    font-family: "Squada One", cursive;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.yellow_bar{
+    width: 100%;
+    background: #EAD000;
+    height: 8px;
+    margin: 5px 0;
+}
